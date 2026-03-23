@@ -1,4 +1,5 @@
 ✨ Manual QA Testing Project – E-commerce Website
+
 📌 Project Overview
 This project demonstrates manual QA testing of an e-commerce web application, including test planning, test case design, defect reporting, and test execution.
 
